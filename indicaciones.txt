@@ -1,0 +1,37 @@
+Using the provided templates (http://htmlandcssportfolio.com/, index.html and portfolio.css) as a guide, create your portfolio site.
+
+
+You should type all of this code from scratch yourself instead of copying and pasting. This will give you a better idea of what each line of code does exactly, and provide you with more experience.
+
+
+It is recommended that you keep the basic layout provided.
+
+
+You are allowed to keep some of the styling (background colors, fonts, etc.) for your site but are required to customize (personalize) at least one element of the site. Here are some example customizations:
+
+
+Font,
+
+Colors,
+
+Video,
+
+Hover effects, etc.
+
+Ensure that the content (i.e. text contained within the Home, About and GitHub sections) is customized and reflects what you want to say about yourself.
+
+
+It is highly recommended that you save and run your code often. Factually, you should test your code after adding each element and each CSS class/ID. That way you can instantly spot issues in your code and so more easily isolate the source of problems.
+
+
+DEBUGGING TIPS:
+
+
+Save and run your code every time you add a new line.
+
+Research online for solutions – using Google, W3Schools Online Web Tutorials and Stack Overflow as resources.
+
+Write your code within Visual Studio Code so that you can utilize LiveShare to get Instructor assistance as needed – as a reminder, LiveShare allows them to access your code remotely.
+
+Once complete, save all files and folders and successfully run your code in the browser.
+
